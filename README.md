@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the inference code used in the [NBME - Score Clinical Patient Notes](https://www.kaggle.com/c/nbme-score-clinical-patient-notes) kaggle competition. This solution is ranked 129th out of 1500 teams (top 9%). More explanation on the code can be found [here](https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes/discussion/322853).
+This repository contains the inference code used in the [NBME - Score Clinical Patient Notes](https://www.kaggle.com/c/nbme-score-clinical-patient-notes) kaggle competition. This solution is ranked 120th out of 1471 teams (top 9%). More explanation on the code can be found [here](https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes/discussion/322853).
 
 ## Setting up 
 
