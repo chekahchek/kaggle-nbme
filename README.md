@@ -4,7 +4,7 @@
 
 This repository contains the inference code used in the [NBME - Score Clinical Patient Notes](https://www.kaggle.com/c/nbme-score-clinical-patient-notes) kaggle competition. This solution is ranked 120th out of 1471 teams (top 9%). More explanation on the code can be found [here](https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes/discussion/322853).
 
-## Setting up 
+## Setting up  
 
 Before running the code, you would need to download the dataset as well as the models used in the competition. 
 ```bash
